@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "sou sua landing page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Transforme Visões em Realidade",
+    "paragraph": "Sua Jornada Digital Começa Aqui, Rumo a uma Presença Online Excepcional."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Na MDK Studio, somos mais do que desenvolvedores web; somos arquitetos digitais dedicados a transformar suas ideias em experiências online extraordinárias. Com uma herança de excelência e inovação, oferecemos soluções de ponta para garantir que sua presença na web não seja apenas notável, mas também altamente eficaz.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Design Personalizado",
+      "Desenvolvimento Responsivo",
+      "E-commerce Intuitivo",
+      "SEO Estratégico"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Manutenção Contínua",
+      "Inovação Constante",
+      "Compromisso com a Qualidade",
+      "Parceria de Longo Prazo"
     ]
   },
   "Gallery": [
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Design Personalizado",
+      "text": "Cada site é uma expressão única de sua marca. Desenvolvemos designs personalizados que se alinham à identidade visual da sua empresa."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "E-commerce Poderoso",
+      "text": "Transforme visitantes em clientes com nossas soluções de e-commerce intuitivas. Do carrinho de compras à finalização do pedido, garantimos uma jornada de compra simplificada."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Manutenção Contínua",
+      "text": "Sua presença online deve evoluir com sua empresa. Oferecemos serviços de manutenção contínua para garantir que seu site esteja sempre atualizado e operando com máxima eficiência."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Desenvolvimento Responsivo",
+      "text": "Nosso compromisso com a acessibilidade se reflete em sites totalmente responsivos. Independentemente do dispositivo usado, sua audiência desfrutará de uma experiência consistente e envolvente."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Criação de Games",
+      "text": "Levamos a experiência de entretenimento a um novo nível, desenvolvendo games envolventes para PC, console e celular. Explore novas fronteiras digitais com nossos jogos emocionantes."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Otimização para Motores de Busca",
+      "text": "Maximize sua visibilidade online com estratégias de SEO personalizadas. Colocamos seu site nas primeiras páginas dos motores de busca, atraindo mais tráfego e oportunidades de negócios."
     }
   ],
   "Testimonials": [
@@ -132,23 +132,23 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Felipe Macedo",
+      "job": "Diretor"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Davi Komura",
+      "job": "Garoto do Seu Zé"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Daniel Korban",
+      "job": "Chupador de Sucão"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Judeu",
+      "job": "Desaparecido"
     }
   ],
   "Contact": {
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Colaboração Intensa",
+      "text": "Trabalhamos em estreita colaboração com nossos clientes, transformando suas visões em realidade por meio de uma parceria intensiva e envolvente."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Abordagem Centrada no Cliente",
+      "text": "Cada projeto é moldado pelas necessidades específicas do cliente, garantindo soluções personalizadas que refletem verdadeiramente a identidade e os objetivos da empresa."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Inovação Contínua",
+      "text": "Adotamos uma mentalidade de busca constante por inovação, incorporando as últimas tendências tecnológicas para manter nossos clientes à frente no dinâmico cenário digital."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Qualidade Intransigente",
+      "text": " Comprometemo-nos com a excelência em cada detalhe, desde o design até o desenvolvimento. Nossa busca implacável pela qualidade garante resultados excepcionais em todos os projetos."
     }
   ]
 }
