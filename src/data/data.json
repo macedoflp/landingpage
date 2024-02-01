@@ -3,6 +3,10 @@
     "title": "Transforme Visões em Realidade",
     "paragraph": "Sua Jornada Digital Começa Aqui, Rumo a uma Presença Online Excepcional."
   },
+  "Navigation":{
+    "title" : "Logo mdk",
+    "img" : "img/logo/logowhite.png"
+  },
   "About": {
     "paragraph": "Na MDK Studio, somos mais do que desenvolvedores web; somos arquitetos digitais dedicados a transformar suas ideias em experiências online extraordinárias. Com uma herança de excelência e inovação, oferecemos soluções de ponta para garantir que sua presença na web não seja apenas notável, mas também altamente eficaz.",
     "Why": [
@@ -67,7 +71,7 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-code",
       "name": "Design Personalizado",
       "text": "Cada site é uma expressão única de sua marca. Desenvolvemos designs personalizados que se alinham à identidade visual da sua empresa."
     },
@@ -77,22 +81,22 @@
       "text": "Transforme visitantes em clientes com nossas soluções de e-commerce intuitivas. Do carrinho de compras à finalização do pedido, garantimos uma jornada de compra simplificada."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-wrench",
       "name": "Manutenção Contínua",
       "text": "Sua presença online deve evoluir com sua empresa. Oferecemos serviços de manutenção contínua para garantir que seu site esteja sempre atualizado e operando com máxima eficiência."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-tablet",
       "name": "Desenvolvimento Responsivo",
       "text": "Nosso compromisso com a acessibilidade se reflete em sites totalmente responsivos. Independentemente do dispositivo usado, sua audiência desfrutará de uma experiência consistente e envolvente."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-gamepad",
       "name": "Criação de Games",
       "text": "Levamos a experiência de entretenimento a um novo nível, desenvolvendo games envolventes para PC, console e celular. Explore novas fronteiras digitais com nossos jogos emocionantes."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-search",
       "name": "Otimização para Motores de Busca",
       "text": "Maximize sua visibilidade online com estratégias de SEO personalizadas. Colocamos seu site nas primeiras páginas dos motores de busca, atraindo mais tráfego e oportunidades de negócios."
     }
@@ -161,23 +165,23 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-users",
       "title": "Colaboração Intensa",
       "text": "Trabalhamos em estreita colaboração com nossos clientes, transformando suas visões em realidade por meio de uma parceria intensiva e envolvente."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-user-plus",
       "title": "Abordagem Centrada no Cliente",
       "text": "Cada projeto é moldado pelas necessidades específicas do cliente, garantindo soluções personalizadas que refletem verdadeiramente a identidade e os objetivos da empresa."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-line-chart",
       "title": "Inovação Contínua",
       "text": "Adotamos uma mentalidade de busca constante por inovação, incorporando as últimas tendências tecnológicas para manter nossos clientes à frente no dinâmico cenário digital."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Qualidade Intransigente",
+      "icon": "fa fa-certificate",
+      "title": "Qualidade Impecável",
       "text": " Comprometemo-nos com a excelência em cada detalhe, desde o design até o desenvolvimento. Nossa busca implacável pela qualidade garante resultados excepcionais em todos os projetos."
     }
   ]
