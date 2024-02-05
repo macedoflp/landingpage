@@ -187,9 +187,9 @@ hr {
 .btn-custom.focus,
 .btn-custom:active,
 .btn-custom.active {
-  color: #fff;
+  color: #2E2E2E;
   background-image: none;
-  background-color: #2E2E2E;
+  background-color: #E8E8E8;
 }
 .btn:active,
 .btn.active {
