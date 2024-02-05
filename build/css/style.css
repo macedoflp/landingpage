@@ -87,6 +87,11 @@ hr {
   color: #2E2E2E;
   text-transform: uppercase;
 }
+
+.logo{
+  width: 50px;
+}
+
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
@@ -208,7 +213,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/logo/logowhite.png) center center no-repeat;
+  background: url(../img/logo/banner.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
