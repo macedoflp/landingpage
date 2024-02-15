@@ -48,7 +48,39 @@ export const Contact = (props) => {
 
                 </p>
               </div>
-              <form name="sentMessage" validate onSubmit={handleSubmit}>
+              <div className="form-container">
+                <form className="form" onSubmit={handleSubmit}>
+                  <div className="form-group">
+                    <label htmlFor="email">Seu Email</label>
+                    <input
+                      required
+                      name="email"
+                      id="email"
+                      type="text"
+                      value={email}
+                      placeholder="Email"
+                      onChange={handleChange}
+                    />
+                  </div>
+                  <div className="form-group">
+                    <label htmlFor="message">Como podemos ajudá-lo?</label>
+                    <textarea
+                      required
+                      cols="50"
+                      rows="10"
+                      id="message"
+                      name="message"
+                      value={message}
+                      placeholder="Mensagem"
+                      onChange={handleChange}
+                    ></textarea>
+                  </div>
+                  <button type="submit" className="form-submit-btn">
+                    Submit
+                  </button>
+                </form>
+              </div>
+              {/* <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
@@ -95,7 +127,7 @@ export const Contact = (props) => {
                 <button type="submit" className="btn btn-custom btn-lg">
                   Enviar Mensagem
                 </button>
-              </form>
+              </form> */}
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
