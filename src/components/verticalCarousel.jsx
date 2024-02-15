@@ -66,61 +66,66 @@ const VerticalCarousel = ({data, leadingText }) => {
   };
 
   return (
-    <div id="portfolio" className="container outer-container">
-        <div className="content">
-          <img className="img-carousel"
-            src={data[activeIndex].content.image}
-            alt={data[activeIndex].content.introline}
-          />
-          <p>{data[activeIndex].content.copy}</p>
-        </div>
-
-        <div className="carousel-wrapper">
-          <button
-            type="button"
-            className="carousel-button prev"
-            onClick={() => handleClick("prev")}
-          >
-            <Prev />
-          </button>
-
-          <div className="carousel">
-            
-            <div className="slides">
-              <div className="carousel-inner">
-                {data.map((item, i) => (
-                  <button
-                    type="button"
-                    onClick={() => setActiveIndex(i)}
-                    className={cn("carousel-item", {
-                      active: activeIndex === i,
-                      visible:
-                        Math.abs(determinePlacement(i)) <= visibleStyleThreshold
-                    })}
-                    key={item.id}
-                    style={{
-                      transform: `translateY(${determinePlacement(i)}px)`
-                    }}
-                  >
-                    {item.introline}
-                  </button>
-                ))}
-              </div>
-            </div>
-            <div className="leading-text">
-              <p>{leadingText}</p>
-            </div>
-          </div>
-
-          <button
-            type="button"
-            className="carousel-button next"
-            onClick={() => handleClick("next")}
-          >
-            <Next />
-          </button>
-        </div>
+    <> 
+      <div className="text-center section-title">
+        <h2>Galeria</h2>
     </div>
+<div id="portfolio" className="container outer-container">
+  <div className="content">
+    <img className="img-carousel"
+      src={data[activeIndex].content.image}
+      alt={data[activeIndex].content.introline}
+    />
+    <p>{data[activeIndex].content.copy}</p>
+  </div>
+
+  <div className="carousel-wrapper">
+    <button
+      type="button"
+      className="carousel-button prev"
+      onClick={() => handleClick("prev")}
+    >
+      <Prev />
+    </button>
+
+    <div className="carousel">
+      
+      <div className="slides">
+        <div className="carousel-inner">
+          {data.map((item, i) => (
+            <button
+              type="button"
+              onClick={() => setActiveIndex(i)}
+              className={cn("carousel-item", {
+                active: activeIndex === i,
+                visible:
+                  Math.abs(determinePlacement(i)) <= visibleStyleThreshold
+              })}
+              key={item.id}
+              style={{
+                transform: `translateY(${determinePlacement(i)}px)`
+              }}
+            >
+              {item.introline}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div className="leading-text">
+        <p>{leadingText}</p>
+      </div>
+    </div>
+
+    <button
+      type="button"
+      className="carousel-button next"
+      onClick={() => handleClick("next")}
+    >
+      <Next />
+    </button>
+  </div>
+</div></>
+       
   );
 };
 
