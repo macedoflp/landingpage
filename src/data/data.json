@@ -210,24 +210,36 @@
   ],
   "Team": [
     {
-      "img": "img/team/mateus3.jpeg",
+      "img": "img/team/felipe.jpg",
       "name": "Felipe Macedo",
-      "job": "Diretor"
+      "job": "Diretor",
+      "face": "",
+      "github": "https://github.com/macedoflp",
+      "linkedin": "https://www.linkedin.com/in/macedoflp/"
     },
     {
-      "img": "img/team/mateus1.jpeg",
+      "img": "img/team/davi.jpg",
       "name": "Davi Komura",
-      "job": "Garoto do Seu Zé"
+      "job": "Garoto do Seu Zé",
+      "face": "",
+      "github": "https://github.com/davikomura",
+      "linkedin": "https://www.linkedin.com/in/davikomura-2099/"
     },
     {
-      "img": "img/team/mateus2.jpeg",
+      "img": "img/team/daniel.jpg",
       "name": "Daniel Korban",
-      "job": "Chupador de Sucão"
+      "job": "Chupador de Sucão",
+      "face": "",
+      "github": "https://github.com/daniel99korban",
+      "linkedin": "https://www.linkedin.com/in/danielkorban/"
     },
     {
-      "img": "img/team/mateus4.jpeg",
-      "name": "Judeu",
-      "job": "Desaparecido"
+      "img": "img/team/roberto.jpg",
+      "name": "Roberto Lucas",
+      "job": "Estagiário",
+      "face": "",
+      "github": "https://github.com/PauloRobert0",
+      "linkedin": "https://www.linkedin.com/in/roberto-lucas-l-pereira/"
     }
   ],
   "Contact": {

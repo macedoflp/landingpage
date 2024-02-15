@@ -66,11 +66,11 @@ const VerticalCarousel = ({data, leadingText }) => {
   };
 
   return (
-    <> 
+    <div id="portfolio"> 
       <div className="text-center section-title">
         <h2>Galeria</h2>
     </div>
-<div id="portfolio" className="container outer-container">
+<div className="container outer-container">
   <div className="content">
     <img className="img-carousel"
       src={data[activeIndex].content.image}
@@ -124,7 +124,8 @@ const VerticalCarousel = ({data, leadingText }) => {
       <Next />
     </button>
   </div>
-</div></>
+</div>
+</div>
        
   );
 };
