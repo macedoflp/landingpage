@@ -70,14 +70,14 @@ const VerticalCarousel = ({data, leadingText }) => {
       <div className="text-center section-title">
         <h2>Galeria</h2>
     </div>
-<div className="container outer-container">
-  <div className="content">
-    <img className="img-carousel"
-      src={data[activeIndex].content.image}
-      alt={data[activeIndex].content.introline}
-    />
-    <p>{data[activeIndex].content.copy}</p>
-  </div>
+    <div className="container outer-container">
+      <div className="content">
+        <img className="img-carousel"
+          src={data[activeIndex].content.image}
+          alt={data[activeIndex].content.introline}
+        />
+        {/* <p>{data[activeIndex].content.copy}</p> */}
+    </div>
 
   <div className="carousel-wrapper">
     <button

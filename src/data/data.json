@@ -104,75 +104,59 @@
   "LeadingText": "Projetos",
   "Slides": [
     {
-      "introline": "dogs",
-      "id": "dogs",
+      "introline": "Site de Advocacia",
+      "id": "site-advocacia",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Dogs",
+        "image": "img/projetos/dk-advocacia.png",
         "copy": "Dog ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     },
     {
-      "introline": "elephants",
-      "id": "elephants",
+      "introline": "Kanban Board",
+      "id": "kanban-board",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Elephants",
+        "image": "img/projetos/kanban-board.png",
         "copy": "Elephant ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     },
     {
-      "introline": "bears",
-      "id": "bears",
+      "introline": "Aplicação com Dark Mode",
+      "id": "app-react",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Bears",
+        "image": "img/projetos/react-native-dark-mode.png",
         "copy": "Bears ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     },
     {
-      "introline": "lizards",
-      "id": "lizards",
+      "introline": "Delivery",
+      "id": "delivery",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Lizards",
+        "image": "img/projetos/app-delivery.png",
         "copy": "Lizards ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     },
     {
-      "introline": "snakes",
-      "id": "snakes",
+      "introline": "Gestor de dependências",
+      "id": "gestao-dependencias",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Snakes",
+        "image": "img/projetos/app-gestao-de-salas.png",
         "copy": "Snakes ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     },
     {
-      "introline": "cats",
-      "id": "cats",
+      "introline": "Gestão de Passagens",
+      "id": "app-gestao-passagens",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Cats",
+        "image": "img/projetos/sistema-compra-passagens.png",
         "copy": "Cats ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     },
     {
-      "introline": "giraffes",
-      "id": "giraffes",
+      "introline": "Gui de Dados Json",
+      "id": "data-form-gui",
       "content": {
-        "image": "https://via.placeholder.com/400x200?text=Giraffes",
-        "copy": "Giraffes ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
-      }
-    },
-    {
-      "introline": "owls",
-      "id": "owls",
-      "content": {
-        "image": "https://via.placeholder.com/400x200?text=Owls",
-        "copy": "Owls ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
-      }
-    },
-    {
-      "introline": "horses",
-      "id": "horses",
-      "content": {
-        "image": "https://via.placeholder.com/400x200?text=horses",
-        "copy": "Horses ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+        "image": "img/projetos/data-form-gui.png",
+        "copy": "Cats ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
       }
     }
   ],
@@ -212,7 +196,7 @@
     {
       "img": "img/team/felipe.jpg",
       "name": "Felipe Macedo",
-      "job": "Diretor",
+      "job": "Desenvolvedor Full-Stack",
       "face": "",
       "github": "https://github.com/macedoflp",
       "linkedin": "https://www.linkedin.com/in/macedoflp/"
@@ -220,7 +204,7 @@
     {
       "img": "img/team/davi.jpg",
       "name": "Davi Komura",
-      "job": "Garoto do Seu Zé",
+      "job": "Desenvolvedor Full-Stack",
       "face": "",
       "github": "https://github.com/davikomura",
       "linkedin": "https://www.linkedin.com/in/davikomura-2099/"
@@ -228,7 +212,7 @@
     {
       "img": "img/team/daniel.jpg",
       "name": "Daniel Korban",
-      "job": "Chupador de Sucão",
+      "job": "Desenvolvedor Full-Stack",
       "face": "",
       "github": "https://github.com/daniel99korban",
       "linkedin": "https://www.linkedin.com/in/danielkorban/"
@@ -236,7 +220,7 @@
     {
       "img": "img/team/roberto.jpg",
       "name": "Roberto Lucas",
-      "job": "Estagiário",
+      "job": "Desenvolvedor Full-Stack",
       "face": "",
       "github": "https://github.com/PauloRobert0",
       "linkedin": "https://www.linkedin.com/in/roberto-lucas-l-pereira/"

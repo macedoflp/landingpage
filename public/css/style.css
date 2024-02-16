@@ -89,7 +89,8 @@ hr {
 }
 
 .logo{
-  width: 50px;
+  width: 156px;
+  margin-top: -65px;
 }
 
 #menu.navbar-default .navbar-nav > li > a {
@@ -935,7 +936,7 @@ label {
 }
 
 .img-carousel{
-  max-width: 100%;
+  width: 509px;
 }
 
 .outer-container {
@@ -947,13 +948,14 @@ label {
 
 .outer-container > div {
   flex: 1;
-  padding: 90px;
+  padding: 33px;
 }
 
 .outer-container .carousel-wrapper {
   background: var(--gray);
   display: flex;
   flex-direction: column;
+  height: 441px ;
 }
 
 .outer-container .carousel-wrapper p,
@@ -965,7 +967,8 @@ label {
 }
 
 .outer-container .content {
-  background: #E8E8E8;
+  background: #2E2E2E;
+  height: 441px;
 }
 
 .leading-text {
