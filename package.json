@@ -1,6 +1,6 @@
 {
-  "name": "landingpage-react-template",
-  "homepage": "./",
+  "name": "mdk-studio",
+  "homepage": "https://mdkstudio.github.io/landingpage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.5.1",
     "emailjs-com": "^2.6.4",
+    "gh-pages": "^6.1.1",
     "prop-types": "^15.8.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -16,6 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
