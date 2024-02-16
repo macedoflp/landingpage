@@ -89,7 +89,8 @@ hr {
 }
 
 .logo{
-  width: 50px;
+  width: 156px;
+  margin-top: -65px;
 }
 
 #menu.navbar-default .navbar-nav > li > a {
@@ -868,12 +869,12 @@ label {
 }
 
 .contact-card .social-link2:hover {
-  background-color: #00ccff;
+  background-color: #0d6efd;
   animation: bounce_613 0.4s linear;
 }
 
 .contact-card .social-link3:hover {
-  background-color: #5865f2;
+  background-color: #53297a;
   animation: bounce_613 0.4s linear;
 }
 
@@ -935,7 +936,7 @@ label {
 }
 
 .img-carousel{
-  max-width: 100%;
+  width: 509px;
 }
 
 .outer-container {
@@ -947,13 +948,14 @@ label {
 
 .outer-container > div {
   flex: 1;
-  padding: 90px;
+  padding: 33px;
 }
 
 .outer-container .carousel-wrapper {
   background: var(--gray);
   display: flex;
   flex-direction: column;
+  height: 441px ;
 }
 
 .outer-container .carousel-wrapper p,
@@ -965,7 +967,8 @@ label {
 }
 
 .outer-container .content {
-  background: #E8E8E8;
+  background: #2E2E2E;
+  height: 441px;
 }
 
 .leading-text {
